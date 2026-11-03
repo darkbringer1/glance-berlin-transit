@@ -64,7 +64,7 @@ On a phone:
 
 <img src="screenshots/berlin-transit-mobile.png" width="320" alt="Berlin transit on a phone">
 
-Next to the [Football Fixtures](https://github.com/darkbringer1/football-fixtures) and [Filtered GitHub Repos](https://github.com/darkbringer1/filtered-github-repos) widgets:
+Next to the [Football Team Fixtures](https://github.com/darkbringer1/football-team-fixtures) and [Filtered GitHub Repos](https://github.com/darkbringer1/filtered-github-repos) widgets:
 
 ![Berlin page](screenshots/combo-berlin.png)
 ![Developer page](screenshots/combo-dev.png)
