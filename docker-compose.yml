@@ -1,0 +1,7 @@
+services:
+  berlin-transit:
+    container_name: glance-berlin-transit
+    build: .
+    restart: unless-stopped
+    ports:
+      - 8080:8080
